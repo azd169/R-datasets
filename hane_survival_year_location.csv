@@ -1,0 +1,13 @@
+,Year,Location,Survival,n,Rate
+1,Initial,LA Tech,Alive,216,100
+2,Initial,LA Tech,Dead,0,0
+3,Initial,Hill Farm,Alive,210,97.22
+4,Initial,Hill Farm,Dead,6,2.78
+5,First,LA Tech,Alive,204,94.44
+6,First,LA Tech,Dead,12,5.56
+7,First,Hill Farm,Alive,195,90.28
+8,First,Hill Farm,Dead,21,9.72
+9,Second,LA Tech,Alive,203,93.98
+10,Second,LA Tech,Dead,13,6.02
+11,Second,Hill Farm,Alive,191,88.43
+12,Second,Hill Farm,Dead,25,11.57
