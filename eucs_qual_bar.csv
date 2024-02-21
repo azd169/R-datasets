@@ -1,0 +1,199 @@
+Year,Type,Quality,Species
+2014,Total,Invasive,2
+2014,Total,Colonizing,26
+2014,Total,Fairly high,20
+2014,Total,High,12
+2014,Total,Very high,3
+2014,Total,Non classified,34
+2014,E13,Invasive,2
+2014,E13,Colonizing,26
+2014,E13,Fairly high,16
+2014,E13,High,6
+2014,E13,Very high,3
+2014,E13,Non classified,19
+2014,S13,Invasive,2
+2014,S13,Colonizing,16
+2014,S13,Fairly high,18
+2014,S13,High,10
+2014,S13,Very high,3
+2014,S13,Non classified,25
+2014,S08,Invasive,1
+2014,S08,Colonizing,14
+2014,S08,Fairly high,8
+2014,S08,High,6
+2014,S08,Very high,2
+2014,S08,Non classified,22
+2014,E13_S13_S08,Invasive,1
+2014,E13_S13_S08,Colonizing,12
+2014,E13_S13_S08,Fairly high,7
+2014,E13_S13_S08,High,5
+2014,E13_S13_S08,Very high,2
+2014,E13_S13_S08,Non classified,11
+2014,E13_S13,Invasive,2
+2014,E13_S13,Colonizing,16
+2014,E13_S13,Fairly high,14
+2014,E13_S13,High,5
+2014,E13_S13,Very high,3
+2014,E13_S13,Non classified,14
+2014,E13_S08,Invasive,1
+2014,E13_S08,Colonizing,14
+2014,E13_S08,Fairly high,7
+2014,E13_S08,High,5
+2014,E13_S08,Very high,2
+2014,E13_S08,Non classified,14
+2014,S13_S08,Invasive,1
+2014,S13_S08,Colonizing,12
+2014,S13_S08,Fairly high,8
+2014,S13_S08,High,5
+2014,S13_S08,Very high,2
+2014,S13_S08,Non classified,15
+2014,E13_U,Invasive,0
+2014,E13_U,Colonizing,8
+2014,E13_U,Fairly high,2
+2014,E13_U,High,1
+2014,E13_U,Very high,0
+2014,E13_U,Non classified,2
+2014,S13_U,Invasive,0
+2014,S13_U,Colonizing,0
+2014,S13_U,Fairly high,3
+2014,S13_U,High,5
+2014,S13_U,Very high,0
+2014,S13_U,Non classified,7
+2014,S08_U,Invasive,0
+2014,S08_U,Colonizing,0
+2014,S08_U,Fairly high,0
+2014,S08_U,High,1
+2014,S08_U,Very high,0
+2014,S08_U,Non classified,4
+2015,Total,Invasive,2
+2015,Total,Colonizing,24
+2015,Total,Fairly high,21
+2015,Total,High,13
+2015,Total,Very high,6
+2015,Total,Non classified,41
+2015,E13,Invasive,1
+2015,E13,Colonizing,22
+2015,E13,Fairly high,14
+2015,E13,High,8
+2015,E13,Very high,4
+2015,E13,Non classified,26
+2015,S13,Invasive,2
+2015,S13,Colonizing,18
+2015,S13,Fairly high,19
+2015,S13,High,11
+2015,S13,Very high,6
+2015,S13,Non classified,29
+2015,S08,Invasive,1
+2015,S08,Colonizing,17
+2015,S08,Fairly high,5
+2015,S08,High,5
+2015,S08,Very high,3
+2015,S08,Non classified,25
+2015,E13_S13_S08,Invasive,1
+2015,E13_S13_S08,Colonizing,14
+2015,E13_S13_S08,Fairly high,4
+2015,E13_S13_S08,High,4
+2015,E13_S13_S08,Very high,3
+2015,E13_S13_S08,Non classified,13
+2015,E13_S13,Invasive,1
+2015,E13_S13,Colonizing,18
+2015,E13_S13,Fairly high,12
+2015,E13_S13,High,6
+2015,E13_S13,Very high,4
+2015,E13_S13,Non classified,17
+2015,E13_S08,Invasive,1
+2015,E13_S08,Colonizing,15
+2015,E13_S08,Fairly high,5
+2015,E13_S08,High,4
+2015,E13_S08,Very high,3
+2015,E13_S08,Non classified,17
+2015,S13_S08,Invasive,1
+2015,S13_S08,Colonizing,14
+2015,S13_S08,Fairly high,4
+2015,S13_S08,High,5
+2015,S13_S08,Very high,3
+2015,S13_S08,Non classified,18
+2015,E13_U,Invasive,0
+2015,E13_U,Colonizing,3
+2015,E13_U,Fairly high,1
+2015,E13_U,High,2
+2015,E13_U,Very high,0
+2015,E13_U,Non classified,5
+2015,S13_U,Invasive,1
+2015,S13_U,Colonizing,0
+2015,S13_U,Fairly high,7
+2015,S13_U,High,4
+2015,S13_U,Very high,2
+2015,S13_U,Non classified,7
+2015,S08_U,Invasive,0
+2015,S08_U,Colonizing,2
+2015,S08_U,Fairly high,0
+2015,S08_U,High,0
+2015,S08_U,Very high,0
+2015,S08_U,Non classified,3
+2016,Total,Invasive,1
+2016,Total,Colonizing,26
+2016,Total,Fairly high,16
+2016,Total,High,7
+2016,Total,Very high,3
+2016,Total,Non classified,34
+2016,E13,Invasive,1
+2016,E13,Colonizing,15
+2016,E13,Fairly high,10
+2016,E13,High,5
+2016,E13,Very high,0
+2016,E13,Non classified,21
+2016,S13,Invasive,0
+2016,S13,Colonizing,19
+2016,S13,Fairly high,12
+2016,S13,High,6
+2016,S13,Very high,3
+2016,S13,Non classified,23
+2016,S08,Invasive,1
+2016,S08,Colonizing,11
+2016,S08,Fairly high,4
+2016,S08,High,3
+2016,S08,Very high,1
+2016,S08,Non classified,20
+2016,E13_S13_S08,Invasive,0
+2016,E13_S13_S08,Colonizing,6
+2016,E13_S13_S08,Fairly high,3
+2016,E13_S13_S08,High,3
+2016,E13_S13_S08,Very high,0
+2016,E13_S13_S08,Non classified,10
+2016,E13_S13,Invasive,0
+2016,E13_S13,Colonizing,9
+2016,E13_S13,Fairly high,6
+2016,E13_S13,High,4
+2016,E13_S13,Very high,0
+2016,E13_S13,Non classified,12
+2016,E13_S08,Invasive,1
+2016,E13_S08,Colonizing,8
+2016,E13_S08,Fairly high,3
+2016,E13_S08,High,3
+2016,E13_S08,Very high,0
+2016,E13_S08,Non classified,14
+2016,S13_S08,Invasive,0
+2016,S13_S08,Colonizing,8
+2016,S13_S08,Fairly high,4
+2016,S13_S08,High,3
+2016,S13_S08,Very high,1
+2016,S13_S08,Non classified,14
+2016,E13_U,Invasive,0
+2016,E13_U,Colonizing,4
+2016,E13_U,Fairly high,4
+2016,E13_U,High,1
+2016,E13_U,Very high,0
+2016,E13_U,Non classified,5
+2016,S13_U,Invasive,0
+2016,S13_U,Colonizing,8
+2016,S13_U,Fairly high,5
+2016,S13_U,High,2
+2016,S13_U,Very high,2
+2016,S13_U,Non classified,7
+2016,S08_U,Invasive,0
+2016,S08_U,Colonizing,1
+2016,S08_U,Fairly high,0
+2016,S08_U,High,0
+2016,S08_U,Very high,0
+2016,S08_U,Non classified,2
