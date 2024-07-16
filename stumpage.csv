@@ -1,15 +1,85 @@
-﻿Year,Quarter,Pine_ST,Oak_ST,Mix_HW_ST,Pine_CnS,Pine_P,HW_P
-2021,Q1,25.68,43.99,35.1,20.04,8.4,9.69
-2021,Q2,27.39,42.11,31.8,18.59,7.19,8.77
-2021,Q3,27.55,45.35,32.33,19.64,9.31,9.4
-2021,Q4,26.05,44.25,35.73,19.88,9.09,9.48
-2022,Q1,25.68,43.99,35.1,20.04,8.4,9.69
-2022,Q2,NA,NA,NA,NA,NA,NA
-2022,Q3,25.77,42.67,33.69,16.93,7.72,7.57
-2022,Q4,26.9,43.99,33.67,20.93,8.36,9.65
-2023,Q1,NA,NA,NA,NA,NA,NA
-2023,Q2,26.5,46.08,30.09,18.31,6.35,10.43
-2023,Q3,27.79,45.28,32.63,17.89,6.49,7.86
-2023,Q4,NA,NA,NA,NA,NA,NA
-2024,Q1,26.9,46.31,33.61,18.73,6.73,7.8
-2024,Q2,27.61,44.17,31.91,16.07,5.05,8.18
+﻿Year,Quarter,Time,Type,Price
+2021,Q1,2021 Q1,Pine Sawtimber,25.68
+2021,Q2,2021 Q2,Pine Sawtimber,27.39
+2021,Q3,2021 Q3,Pine Sawtimber,27.55
+2021,Q4,2021 Q4,Pine Sawtimber,26.05
+2022,Q1,2022 Q1,Pine Sawtimber,25.68
+2022,Q2,2022 Q2,Pine Sawtimber,NA
+2022,Q3,2022 Q3,Pine Sawtimber,25.77
+2022,Q4,2022 Q4,Pine Sawtimber,26.9
+2023,Q1,2023 Q1,Pine Sawtimber,NA
+2023,Q2,2023 Q2,Pine Sawtimber,26.5
+2023,Q3,2023 Q3,Pine Sawtimber,27.79
+2023,Q4,2023 Q4,Pine Sawtimber,NA
+2024,Q1,2024 Q1,Pine Sawtimber,26.9
+2024,Q2,2024 Q2,Pine Sawtimber,27.61
+2021,Q1,2021 Q1,Oak Sawtimber,43.99
+2021,Q2,2021 Q2,Oak Sawtimber,42.11
+2021,Q3,2021 Q3,Oak Sawtimber,45.35
+2021,Q4,2021 Q4,Oak Sawtimber,44.25
+2022,Q1,2022 Q1,Oak Sawtimber,43.99
+2022,Q2,2022 Q2,Oak Sawtimber,NA
+2022,Q3,2022 Q3,Oak Sawtimber,42.67
+2022,Q4,2022 Q4,Oak Sawtimber,43.99
+2023,Q1,2023 Q1,Oak Sawtimber,NA
+2023,Q2,2023 Q2,Oak Sawtimber,46.08
+2023,Q3,2023 Q3,Oak Sawtimber,45.28
+2023,Q4,2023 Q4,Oak Sawtimber,NA
+2024,Q1,2024 Q1,Oak Sawtimber,46.31
+2024,Q2,2024 Q2,Oak Sawtimber,44.17
+2021,Q1,2021 Q1,Mixed Hardwood Sawtimber,35.1
+2021,Q2,2021 Q2,Mixed Hardwood Sawtimber,31.8
+2021,Q3,2021 Q3,Mixed Hardwood Sawtimber,32.33
+2021,Q4,2021 Q4,Mixed Hardwood Sawtimber,35.73
+2022,Q1,2022 Q1,Mixed Hardwood Sawtimber,35.1
+2022,Q2,2022 Q2,Mixed Hardwood Sawtimber,NA
+2022,Q3,2022 Q3,Mixed Hardwood Sawtimber,33.69
+2022,Q4,2022 Q4,Mixed Hardwood Sawtimber,33.67
+2023,Q1,2023 Q1,Mixed Hardwood Sawtimber,NA
+2023,Q2,2023 Q2,Mixed Hardwood Sawtimber,30.09
+2023,Q3,2023 Q3,Mixed Hardwood Sawtimber,32.63
+2023,Q4,2023 Q4,Mixed Hardwood Sawtimber,NA
+2024,Q1,2024 Q1,Mixed Hardwood Sawtimber,33.61
+2024,Q2,2024 Q2,Mixed Hardwood Sawtimber,31.91
+2021,Q1,2021 Q1,Pine Chip-n-Saw,20.04
+2021,Q2,2021 Q2,Pine Chip-n-Saw,18.59
+2021,Q3,2021 Q3,Pine Chip-n-Saw,19.64
+2021,Q4,2021 Q4,Pine Chip-n-Saw,19.88
+2022,Q1,2022 Q1,Pine Chip-n-Saw,20.04
+2022,Q2,2022 Q2,Pine Chip-n-Saw,NA
+2022,Q3,2022 Q3,Pine Chip-n-Saw,16.93
+2022,Q4,2022 Q4,Pine Chip-n-Saw,20.93
+2023,Q1,2023 Q1,Pine Chip-n-Saw,NA
+2023,Q2,2023 Q2,Pine Chip-n-Saw,18.31
+2023,Q3,2023 Q3,Pine Chip-n-Saw,17.89
+2023,Q4,2023 Q4,Pine Chip-n-Saw,NA
+2024,Q1,2024 Q1,Pine Chip-n-Saw,18.73
+2024,Q2,2024 Q2,Pine Chip-n-Saw,16.07
+2021,Q1,2021 Q1,Pine Pulpwood,8.4
+2021,Q2,2021 Q2,Pine Pulpwood,7.19
+2021,Q3,2021 Q3,Pine Pulpwood,9.31
+2021,Q4,2021 Q4,Pine Pulpwood,9.09
+2022,Q1,2022 Q1,Pine Pulpwood,8.4
+2022,Q2,2022 Q2,Pine Pulpwood,NA
+2022,Q3,2022 Q3,Pine Pulpwood,7.72
+2022,Q4,2022 Q4,Pine Pulpwood,8.36
+2023,Q1,2023 Q1,Pine Pulpwood,NA
+2023,Q2,2023 Q2,Pine Pulpwood,6.35
+2023,Q3,2023 Q3,Pine Pulpwood,6.49
+2023,Q4,2023 Q4,Pine Pulpwood,NA
+2024,Q1,2024 Q1,Pine Pulpwood,6.73
+2024,Q2,2024 Q2,Pine Pulpwood,5.05
+2021,Q1,2021 Q1,Hardwood Pulpwood,9.69
+2021,Q2,2021 Q2,Hardwood Pulpwood,8.77
+2021,Q3,2021 Q3,Hardwood Pulpwood,9.4
+2021,Q4,2021 Q4,Hardwood Pulpwood,9.48
+2022,Q1,2022 Q1,Hardwood Pulpwood,9.69
+2022,Q2,2022 Q2,Hardwood Pulpwood,NA
+2022,Q3,2022 Q3,Hardwood Pulpwood,7.57
+2022,Q4,2022 Q4,Hardwood Pulpwood,9.65
+2023,Q1,2023 Q1,Hardwood Pulpwood,NA
+2023,Q2,2023 Q2,Hardwood Pulpwood,10.43
+2023,Q3,2023 Q3,Hardwood Pulpwood,7.86
+2023,Q4,2023 Q4,Hardwood Pulpwood,NA
+2024,Q1,2024 Q1,Hardwood Pulpwood,7.8
+2024,Q2,2024 Q2,Hardwood Pulpwood,8.18
